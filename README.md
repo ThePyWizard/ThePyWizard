@@ -15,7 +15,7 @@
 
 - 📫 How to reach me - **jishnumm4312@gmail.com**
 
-- ⚡ Fun fact - **I love Sci-Fi Movies very much.**
+- ⚡ Fun fact - **I am a professional speedcuber**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
