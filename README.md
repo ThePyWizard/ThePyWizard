@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thepywizard" target="blank"><img src="https://img.shields.io/twitter/follow/thepywizard?logo=twitter&style=for-the-badge" alt="thepywizard" /></a> </p>
 
-- 🌱 I’m currently know **MERN STACK**
+- 🌱 I currently know **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Advanced Python Projects**
 
