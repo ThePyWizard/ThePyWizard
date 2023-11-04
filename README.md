@@ -13,7 +13,7 @@
 
 - 💬 Ask me about - **Python, MySQL**
 
-- 📫 How to reach me - **jishnumm4312@gmail.com**
+- 📫 How to reach me - **thepywizard@gmail.com**
 
 - ⚡ Fun fact - **I am a professional speedcuber**
 
