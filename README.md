@@ -1,11 +1,11 @@
-![MasterHead](https://github.com/ThePyWizard/ThePyWizard/blob/main/matrix%20github.gif?raw=true)
+![MasterHead]()
 <h1 align="center">Hola Coders 👋, I'm Jishnu M M</h1>
 <h3 align="center">A passionate coding and cybersecurity student of Cochin University of Science and Technology, Kochi.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <a href="https://twitter.com/thepywizard" target="blank"><img src="https://img.shields.io/twitter/follow/thepywizard?logo=twitter&style=for-the-badge" alt="thepywizard" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++, JavaScript, HTML , CSS**
+- 🌱 I’m currently know **MERN STACK**
 
 - 👯 I’m looking to collaborate on **Advanced Python Projects**
 
