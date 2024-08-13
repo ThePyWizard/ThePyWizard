@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/thepywizard" target="blank"><img src="https://img.shields.io/twitter/follow/thepywizard?logo=twitter&style=for-the-badge" alt="thepywizard" /></a> </p>
 
-- 🌱 I currently know **MERN STACK**
+- 🌱 I currently know **PYTHON, MERN STACK**
 
-- 👯 I’m looking to collaborate on **Advanced Python Projects**
+- 👯 I’m looking to collaborate on **Advanced Python Projects and Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thepywizard](https://github.com/thepywizard)
 
-- 💬 Ask me about - **Python, MySQL**
+- 💬 Ask me about - **Python, FastAPI, PostgreSQL, Firebase, YOLO**
 
 - 📫 How to reach me - **thepywizard@gmail.com**
 
-- ⚡ Fun fact - **I am a professional speedcuber**
+- ⚡ Fun fact - **I can solve a rubiks under 20seconds.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
