@@ -1,7 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hola Coders 👋, I'm Jishnu</h1>
-<h3 align="center">A passionate coding and cybersecurity student of Cochin University of Science and Technology, Kochi.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ce5757ad01f59bf514b79a5c04e53651c7eb418add7d70eba8448ab6143aa17a/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3033362f3132352f3430352f6f726967696e616c2f69676f722d667265697461732d6d6573612e6769663f31363136373739353632">
+![MasterHead](https://github.com/user-attachments/assets/817910df-990c-44d4-9a9c-4b94bf54db91)
+
+<h1 align="center">Hey👋, I'm Jishnu</h1>
+<h3 align="left">A passionate coder and a designer who hails from CUSAT.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/039/867/982/original/pixel-jeff-night2.gif?1627188612">
 
 <p align="left"> <a href="https://twitter.com/thepywizard" target="blank"><img src="https://img.shields.io/twitter/follow/thepywizard?logo=twitter&style=for-the-badge" alt="thepywizard" /></a> </p>
 
